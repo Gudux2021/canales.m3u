@@ -1,5 +1,4 @@
-# canales.m3u
-﻿﻿#EXTINF:-1" tvg-logo="http://media.entutele.com/channels/big/ae-hd.gif", A&E HD (211)
+#EXTINF:-1" tvg-logo="http://media.entutele.com/channels/big/ae-hd.gif", A&E HD (211)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=g8fy3op0diguur&lchId=62&format=HLSAD&f=.m3u8
 
 #EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/adn-40-hd.gif", ADN 40 HD (140)
